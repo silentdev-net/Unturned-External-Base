@@ -15,4 +15,4 @@ Features:
 - No spread
 - Admin spoof/force Admin
 - Danger radius
-- Fast exit
+- Fast exit timer
