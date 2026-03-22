@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="unturned_external/unturned_external.vcxproj" Id="e78aa4b4-2403-43ac-b607-42707f651ce4" />
+</Solution>
